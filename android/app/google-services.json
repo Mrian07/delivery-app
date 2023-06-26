@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "825123677617",
+    "project_id": "grandekitchen-3b133",
+    "storage_bucket": "grandekitchen-3b133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825123677617:android:4bc576d0cd35ef7c55c990",
+        "android_client_info": {
+          "package_name": "com.gradekitchen.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825123677617-tv9cq9tkt2lqfg7ep5pv8fumsloi43ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzqKWZ5Mzs-Dj6wCIfWbyX4rSVNar0RcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825123677617-tv9cq9tkt2lqfg7ep5pv8fumsloi43ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825123677617:android:fb1149839720f2f055c990",
+        "android_client_info": {
+          "package_name": "com.gradekitchen.delivery.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825123677617-tv9cq9tkt2lqfg7ep5pv8fumsloi43ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzqKWZ5Mzs-Dj6wCIfWbyX4rSVNar0RcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825123677617-tv9cq9tkt2lqfg7ep5pv8fumsloi43ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
